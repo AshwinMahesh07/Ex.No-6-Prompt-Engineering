@@ -1,4 +1,3 @@
-[EX6_Multiple_AI_Tools_Ashwin_Kumar.pdf](https://github.com/user-attachments/files/28641914/EX6_Multiple_AI_Tools_Ashwin_Kumar.pdf)
 Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 Aim: 
